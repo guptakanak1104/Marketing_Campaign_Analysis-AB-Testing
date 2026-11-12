@@ -1,4 +1,4 @@
-# 🛍️ A/B Testing for Marketing Campaigns
+# 🛍️ A/B Testing for Marketing Campaign
 
 ## 📌 Project Overview
 
